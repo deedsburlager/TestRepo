@@ -1,0 +1,11 @@
+C:\Users\Evan\source\repos\CodeLouExample\CodeLouExample\bin\Debug\netcoreapp2.1\CodeLouExample.deps.json
+C:\Users\Evan\source\repos\CodeLouExample\CodeLouExample\bin\Debug\netcoreapp2.1\CodeLouExample.runtimeconfig.json
+C:\Users\Evan\source\repos\CodeLouExample\CodeLouExample\bin\Debug\netcoreapp2.1\CodeLouExample.runtimeconfig.dev.json
+C:\Users\Evan\source\repos\CodeLouExample\CodeLouExample\bin\Debug\netcoreapp2.1\CodeLouExample.dll
+C:\Users\Evan\source\repos\CodeLouExample\CodeLouExample\obj\Debug\netcoreapp2.1\CodeLouExample.csprojAssemblyReference.cache
+C:\Users\Evan\source\repos\CodeLouExample\CodeLouExample\obj\Debug\netcoreapp2.1\CodeLouExample.csproj.CoreCompileInputs.cache
+C:\Users\Evan\source\repos\CodeLouExample\CodeLouExample\obj\Debug\netcoreapp2.1\CodeLouExample.AssemblyInfoInputs.cache
+C:\Users\Evan\source\repos\CodeLouExample\CodeLouExample\obj\Debug\netcoreapp2.1\CodeLouExample.AssemblyInfo.cs
+C:\Users\Evan\source\repos\CodeLouExample\CodeLouExample\bin\Debug\netcoreapp2.1\CodeLouExample.pdb
+C:\Users\Evan\source\repos\CodeLouExample\CodeLouExample\obj\Debug\netcoreapp2.1\CodeLouExample.dll
+C:\Users\Evan\source\repos\CodeLouExample\CodeLouExample\obj\Debug\netcoreapp2.1\CodeLouExample.pdb
